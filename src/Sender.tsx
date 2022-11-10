@@ -173,16 +173,7 @@ export const Sender = () => {
         </Stack>
       </Stack>
       <Stack spacing={1}>
-        <Typography>
-          以下のリンクを押して受信ページを開いてください。
-        </Typography>
-        <Box>
-          <Typography>
-            <Link to="/receiver" target="_blank">
-              受信ページを開く
-            </Link>
-          </Typography>
-        </Box>
+        <Typography>受信ページの指示通りに進めてください。</Typography>
       </Stack>
       <Stack spacing={1}>
         <Typography>

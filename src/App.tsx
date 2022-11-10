@@ -21,7 +21,7 @@ const Selector = () => {
         <Box>
           <Typography>
             <Link to="/receiver" target="_blank">
-              受信
+              受信ページを開く
             </Link>
           </Typography>
         </Box>
